@@ -34,7 +34,7 @@
 		<!-- servlet-api -->
 		<servlet-api.version>2.5</servlet-api.version>
 		<!-- mysql驱动 -->
-		<mysql.version>5.1.24</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<!-- ojdbc5.version 需要oracle授权，所以下载到本地自定义 -->
 		<ojdbc5.version>11.1</ojdbc5.version>
 		<!-- struts2 -->
