@@ -38,7 +38,7 @@
 		<!-- ojdbc5.version 需要oracle授权，所以下载到本地自定义 -->
 		<ojdbc5.version>11.1</ojdbc5.version>
 		<!-- struts2 -->
-		<struts.version>2.3.14</struts.version>
+		<struts.version>2.5.22</struts.version>
 		<!-- struts2-spring-plugin -->
 		<struts2spring.version>2.3.15.1</struts2spring.version>
 		<!-- spring -->
