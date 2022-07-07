@@ -42,7 +42,7 @@
 		<!-- struts2-spring-plugin -->
 		<struts2spring.version>2.3.15.1</struts2spring.version>
 		<!-- spring -->
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>5.2.21.RELEASE</spring.version>
 		<!-- hibernate -->
 		<hibernate.version>4.2.0.Final</hibernate.version>
 		<!--c3p0.version -->
