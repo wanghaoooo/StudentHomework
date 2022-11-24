@@ -44,7 +44,7 @@
 		<!-- spring -->
 		<spring.version>4.3.7.RELEASE</spring.version>
 		<!-- hibernate -->
-		<hibernate.version>4.2.0.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<!--c3p0.version -->
 		<c3p0.version>0.9.1.2</c3p0.version>
 		<!-- mybatis.version -->
